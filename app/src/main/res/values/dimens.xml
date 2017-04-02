@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="margin2">2dp</dimen>
+    <dimen name="margin5">5dp</dimen>
+    <dimen name="margin7">7sp</dimen>
+    <dimen name="margin10">10dp</dimen>
+    <dimen name="margin15">15dp</dimen>
+    <dimen name="txtSmall">12sp</dimen>
+    <dimen name="txtMedium">15sp</dimen>
+    <dimen name="txtNormal">18sp</dimen>
+</resources>

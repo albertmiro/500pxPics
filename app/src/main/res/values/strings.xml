@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AlbertM 500px</string>
+    <string name="tutorial_skip">Skip ></string>
+    <string name="tutorial_title_0">Here you can find my last\npictures published on 500px</string>
+    <string name="tutorial_title_1">Feel the experience\nthrough pictures</string>
+    <string name="tutorial_title_2">I hope you enjoy it!</string>
+    <string name="tutorial_continue">Continue ></string>
+    <string name="item_deleted">Item deleted</string>
+    <string name="undo">Undo</string>
+    <string name="item_restored">Item restored</string>
+    <string name="splash">Albert Miró\n500px.com/albertmiro</string>
+    <string name="error">Ups, something went wrong, you have Internet?</string>
+    <string name="retry">Retry</string>
+    <string name="no_items">No items found</string>
+</resources>
